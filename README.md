@@ -1,4 +1,4 @@
-# The Robot Framework Oracle Library is a library which provides common functionality for testing Oracle database contents
+# OracleLibrary for Robot Framework
 
 Dependency:
 -----------
